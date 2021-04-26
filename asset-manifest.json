@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/NSSDeploy/static/css/main.cfe4d856.chunk.css",
-    "main.js": "/NSSDeploy/static/js/main.840e2c43.chunk.js",
-    "main.js.map": "/NSSDeploy/static/js/main.840e2c43.chunk.js.map",
-    "runtime-main.js": "/NSSDeploy/static/js/runtime-main.07d38274.js",
-    "runtime-main.js.map": "/NSSDeploy/static/js/runtime-main.07d38274.js.map",
-    "static/css/2.150d169a.chunk.css": "/NSSDeploy/static/css/2.150d169a.chunk.css",
-    "static/js/2.46ba2d93.chunk.js": "/NSSDeploy/static/js/2.46ba2d93.chunk.js",
-    "static/js/2.46ba2d93.chunk.js.map": "/NSSDeploy/static/js/2.46ba2d93.chunk.js.map",
-    "index.html": "/NSSDeploy/index.html",
-    "static/css/2.150d169a.chunk.css.map": "/NSSDeploy/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.cfe4d856.chunk.css.map": "/NSSDeploy/static/css/main.cfe4d856.chunk.css.map",
-    "static/js/2.46ba2d93.chunk.js.LICENSE.txt": "/NSSDeploy/static/js/2.46ba2d93.chunk.js.LICENSE.txt"
+    "main.css": "/deployNSS/static/css/main.cfe4d856.chunk.css",
+    "main.js": "/deployNSS/static/js/main.840e2c43.chunk.js",
+    "main.js.map": "/deployNSS/static/js/main.840e2c43.chunk.js.map",
+    "runtime-main.js": "/deployNSS/static/js/runtime-main.b8ce96ae.js",
+    "runtime-main.js.map": "/deployNSS/static/js/runtime-main.b8ce96ae.js.map",
+    "static/css/2.150d169a.chunk.css": "/deployNSS/static/css/2.150d169a.chunk.css",
+    "static/js/2.46ba2d93.chunk.js": "/deployNSS/static/js/2.46ba2d93.chunk.js",
+    "static/js/2.46ba2d93.chunk.js.map": "/deployNSS/static/js/2.46ba2d93.chunk.js.map",
+    "index.html": "/deployNSS/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/deployNSS/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.cfe4d856.chunk.css.map": "/deployNSS/static/css/main.cfe4d856.chunk.css.map",
+    "static/js/2.46ba2d93.chunk.js.LICENSE.txt": "/deployNSS/static/js/2.46ba2d93.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.07d38274.js",
+    "static/js/runtime-main.b8ce96ae.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.46ba2d93.chunk.js",
     "static/css/main.cfe4d856.chunk.css",
